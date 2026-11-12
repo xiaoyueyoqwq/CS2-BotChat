@@ -14,7 +14,7 @@
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
     <PackageReference Include="YamlDotNet" Version="18.1.0" GeneratePathProperty="true" />
-    <ProjectReference Include="../../shared/BotChatApi/BotChatApi.csproj">
+    <ProjectReference Include="BotChatApi/BotChatApi.csproj">
       <Private>false</Private>
     </ProjectReference>
   </ItemGroup>

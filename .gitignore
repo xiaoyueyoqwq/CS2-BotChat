@@ -1,0 +1,7 @@
+bin/
+obj/
+.codex/
+.claude/
+.devin/
+*.zip
+.vs/
